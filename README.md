@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Gabriel Marini
 
-- 🔭 Trabalhando em uma Corretora de Seguros 
+- 🔭 Em busca da tão sonhada vaga na área da programação
 - 🌱Estudando Python
 - 😄 Pronouns: ele
 
