@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Gabriel Marini
 
-- 🔭 Em busca da tão sonhada vaga na área da programação
+- 🔭 Em busca da tão sonhada vaga como desenvolvedor
 - 🌱Estudando Python
 - 😄 Pronouns: ele
 
