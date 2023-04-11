@@ -6,8 +6,8 @@
  
 <div class="box-info">
      <a href="https://github.com/GabrielMarini12">
-    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api?username=moraeszete&theme=ocean_dark&show_icons=true&include_all_commits=true&coun_private=true">
-    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
+    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarini12&theme=ocean_dark&show_icons=true&include_all_commits=true&coun_private=true">
+    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarini12&layout=compact&theme=ocean_dark&langs_count=8">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
