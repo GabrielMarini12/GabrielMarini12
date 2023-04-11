@@ -3,11 +3,11 @@
 - 🔭 Em busca da tão sonhada vaga como desenvolvedor
 - 🌱Estudando Python
 - 😄 Pronouns: ele
-
-<div>
-  <a href="https://github.com/GabrielMarini12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarini12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula">
+ 
+<div class="box-info">
+     <a href="https://github.com/GabrielMarini12">
+    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api?username=moraeszete&theme=ocean_dark&show_icons=true&include_all_commits=true&coun_private=true">
+    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeszete&layout=compact&theme=ocean_dark&langs_count=8">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
