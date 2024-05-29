@@ -6,7 +6,7 @@
 <div class="box-info">
      <a href="https://github.com/GabrielMarini12">
     <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api?username=GabrielMarini12&show_icons=true&theme=transparent&hide=stars,prs,issues">
-    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarini12&show_icons=true&layout=compact&theme=transparent">
+    <img justifique-itens="flex" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarini12&layout=compact&theme=transparent">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
