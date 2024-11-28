@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Gabriel Marini 😀
 
-- Dev Front-End 💻
+- Dev Full Stack 💻
 - Viciado em agregar conhecimento e apaixonado por programação ❤️
  
 <div class="box-info">
